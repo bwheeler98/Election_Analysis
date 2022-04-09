@@ -33,12 +33,12 @@ The Colorado Board of Election also wanted to analyze the voter turnout for each
   3. The county that had the largest percentage of voter turnout.
 
 ## Challenge Summary
-There were 3 counties that had votes cast in the election.
--Jefferson County had 10.5% of the votes (38855)
--Denver County had 82.5% of the votes (306055)
--Arapahoe County had 6.7% of the votes (24801)
+There were 3 counties that had votes cast in the election:
+- Jefferson County had 10.5% of the votes (38855)
+- Denver County had 82.5% of the votes (306055)
+- Arapahoe County had 6.7% of the votes (24801)
 
--Denver County had the largest turnout with 82.5%!
+- Denver County had the largest turnout with 82.5%!
 
 ## Election-Audit Summary
 This script is a great resource to use for election audits and can be replicated for other elections.  The script can be modified to use on a wider scale such as a national election.  You would need to then create a few new variable as well as a new dictionary to hold each state as the key and the county or counties within that state as the values.  Another modification for this script is if you were to use a different winning vote method such as plurality vote instead of popular vote.  For that modification you would need to alter the conditional and decision statements to calculate the true winner based on plurality vote, which is not as simple as the popular vote.
